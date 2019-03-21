@@ -1,0 +1,11 @@
+id: min-theme
+version: 0.1.3
+type: VS Code extension
+name: min-theme
+title: min-theme
+description: VS Code extension wrapped in a Che Plug-in
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/miguelsolorio/vsextensions/min-theme/1.1.1/vspackage
+publisher: Miguel Solorio
+category: Other
+firstPublicationDate: "2015-09-05"
